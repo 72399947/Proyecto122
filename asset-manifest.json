@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/proyecto122/static/css/main.94c378d0.css",
+    "main.js": "/proyecto122/static/js/main.2e3badd7.js",
+    "static/media/GreenGames.jpg": "/proyecto122/static/media/GreenGames.200954e2e6f4d938e21e.jpg",
+    "static/media/liderazgoPremios.jpg": "/proyecto122/static/media/liderazgoPremios.b0723624e77c9662e1b3.jpg",
+    "static/media/bootstrap-icons.woff?": "/proyecto122/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/proyecto122/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/escudoUnidadEducativa.jpg": "/proyecto122/static/media/escudoUnidadEducativa.6339967e8f9b624239ac.jpg",
+    "index.html": "/proyecto122/index.html",
+    "main.94c378d0.css.map": "/proyecto122/static/css/main.94c378d0.css.map",
+    "main.2e3badd7.js.map": "/proyecto122/static/js/main.2e3badd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c378d0.css",
+    "static/js/main.2e3badd7.js"
+  ]
+}
